@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="./stlye/odontologos.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
+  <title>Odontólogos</title>
+</head>
+<body>
+  <div id="container">
+    <div id="crudOdontologos"></div>
+    <p id="tituloForm">Datos del odóntologo</p>
+    <form id="altaModificacionOdontologo">
+      <div hidden id="divIdOdontologo">
+        <label for="id">Id</label>
+        <input type="text" id="idOdontologo" value="0" disabled>
+      </div>
+      <div>
+        <label for="nombre">Nombre</label>
+        <input type="text" id="nombre" placeholder="Pepe">
+      </div>
+      <div>
+        <label for="apellido">Apellido</label>
+        <input type="text" id="apellido" placeholder="Rodríguez">
+      </div>
+      <div>
+        <label for="matricula">Matrícula</label>
+        <input type="text" id="matricula" placeholder="ABC123">  
+      </div>
+      <button type="reset" id="botonLimpiar">Limpiar</button>
+      <button type="submit">Guardar</button>
+    </form>
+  </div>
+  <div>
+    <a href="./index.html">Volver atrás</a>
+  </div>
+  <script src="./js/odontologos.js"></script>
+</body>
+</html>
