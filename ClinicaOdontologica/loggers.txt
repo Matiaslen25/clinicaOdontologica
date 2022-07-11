@@ -1,0 +1,154 @@
+2022-07-10 19:34:18 INFO  OdontologoController:26 - Buscando todos los pacientes activos
+2022-07-10 19:34:18 ERROR OdontologoController:29 - No se encontraron pacientes activos
+2022-07-10 19:34:21 INFO  OdontologoController:26 - Buscando todos los pacientes activos
+2022-07-10 19:34:21 ERROR OdontologoController:29 - No se encontraron pacientes activos
+2022-07-10 19:34:25 INFO  OdontologoController:52 - Creando paciente
+2022-07-10 19:34:25 INFO  OdontologoController:56 - Paciente Matias2 Len2 creado correctamente con id 1
+2022-07-10 19:34:26 INFO  OdontologoController:52 - Creando paciente
+2022-07-10 19:34:26 INFO  OdontologoController:56 - Paciente Matias2 Len2 creado correctamente con id 2
+2022-07-10 19:34:28 INFO  OdontologoController:26 - Buscando todos los pacientes activos
+2022-07-10 19:34:28 INFO  OdontologoController:32 - Devolviendo 2 pacientes encontrados
+2022-07-10 19:34:38 INFO  OdontologoController:39 - Buscando todos los pacientes eliminados
+2022-07-10 19:34:38 ERROR OdontologoController:42 - No se encontraron pacientes eliminados
+2022-07-10 19:34:43 INFO  OdontologoController:66 - Buscando paciente con id 3
+2022-07-10 19:34:43 ERROR OdontologoController:70 - Paciente con id 3 no encontrado
+2022-07-10 19:34:51 INFO  OdontologoController:95 - Eliminando paciente con id 2
+2022-07-10 19:34:51 INFO  OdontologoController:100 - Paciente con id 2 eliminado con éxito
+2022-07-10 19:34:55 INFO  OdontologoController:110 - Restaurando paciente con id 2
+2022-07-10 19:34:55 INFO  OdontologoController:121 - Paciente con id 2 restaurado con éxito
+2022-07-10 19:34:58 INFO  OdontologoController:80 - Editando paciente con id 2
+2022-07-10 19:34:58 INFO  OdontologoController:88 - Paciente editado con éxito
+2022-07-10 19:35:01 INFO  OdontologoController:26 - Buscando todos los pacientes activos
+2022-07-10 19:35:01 INFO  OdontologoController:32 - Devolviendo 2 pacientes encontrados
+2022-07-10 19:35:04 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-10 19:35:04 ERROR OdontologoController:29 - No se encontraron odontólogos activos
+2022-07-10 19:35:08 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-10 19:35:08 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-10 19:35:11 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-10 19:35:11 INFO  OdontologoController:56 - Odontólogo Odontólogo Pérez creado correctamente con id 1
+2022-07-10 19:35:12 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-10 19:35:12 INFO  OdontologoController:56 - Odontólogo Odontólogo Pérez creado correctamente con id 2
+2022-07-10 19:35:16 INFO  OdontologoController:66 - Buscando odontólogo con id 1
+2022-07-10 19:35:16 INFO  OdontologoController:73 - Odontólogo Odontólogo Pérez encontrado
+2022-07-10 19:35:18 INFO  OdontologoController:95 - Eliminando odontólogo con id 1
+2022-07-10 19:35:18 INFO  OdontologoController:100 - Odontólogo con id 1 eliminado con éxito
+2022-07-10 19:35:20 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-10 19:35:20 INFO  OdontologoController:45 - Devolviendo 1 odontólogos eliminados encontrados
+2022-07-10 19:35:23 INFO  OdontologoController:80 - Editando odontólogo con id 1
+2022-07-10 19:35:23 ERROR OdontologoController:84 - Ocurrió un error al editar el odontólogo
+2022-07-10 19:35:25 INFO  OdontologoController:110 - Restaurando odontólogo con id 1
+2022-07-10 19:35:25 INFO  OdontologoController:121 - Odontólogo con id 1 restaurado con éxito
+2022-07-10 19:35:27 INFO  OdontologoController:80 - Editando odontólogo con id 1
+2022-07-10 19:35:27 INFO  OdontologoController:88 - Odontólogo editado con éxito
+2022-07-10 19:35:31 INFO  OdontologoController:40 - Buscando los turnos activos que comparten el odontólogo con id 1 y el paciente con id 2
+2022-07-10 19:35:31 ERROR OdontologoController:58 - No se encontraron los turnos solicitados
+2022-07-10 19:35:44 INFO  OdontologoController:44 - Buscando los turnos activos del odontólogo con id 1
+2022-07-10 19:35:44 ERROR OdontologoController:58 - No se encontraron los turnos solicitados
+2022-07-10 19:35:48 INFO  OdontologoController:53 - Buscando todos los turnos activos
+2022-07-10 19:35:48 ERROR OdontologoController:58 - No se encontraron los turnos solicitados
+2022-07-10 19:35:52 INFO  OdontologoController:167 - Creando turno
+2022-07-10 19:35:52 INFO  OdontologoController:184 - Turno creado con éxito
+2022-07-10 19:36:02 INFO  OdontologoController:167 - Creando turno
+2022-07-10 19:36:02 INFO  OdontologoController:184 - Turno creado con éxito
+2022-07-10 19:36:08 INFO  OdontologoController:40 - Buscando los turnos activos que comparten el odontólogo con id 2 y el paciente con id 2
+2022-07-10 19:36:08 ERROR OdontologoController:58 - No se encontraron los turnos solicitados
+2022-07-10 19:36:10 INFO  OdontologoController:40 - Buscando los turnos activos que comparten el odontólogo con id 2 y el paciente con id 1
+2022-07-10 19:36:10 INFO  OdontologoController:61 - 1 turnos encontrados con éxito
+2022-07-10 19:36:12 INFO  OdontologoController:44 - Buscando los turnos activos del odontólogo con id 2
+2022-07-10 19:36:12 INFO  OdontologoController:61 - 1 turnos encontrados con éxito
+2022-07-10 19:36:15 INFO  OdontologoController:53 - Buscando todos los turnos activos
+2022-07-10 19:36:15 INFO  OdontologoController:61 - 2 turnos encontrados con éxito
+2022-07-10 19:36:20 INFO  OdontologoController:101 - Buscando turno activo con id 1
+2022-07-10 19:36:20 INFO  OdontologoController:108 - Turno del paciente Matias2 Len2 y del odontólogo Cambio2 Cambio2 encontrado
+2022-07-10 19:36:25 INFO  OdontologoController:227 - Eliminando turno con id 1
+2022-07-10 19:36:25 INFO  OdontologoController:235 - Turno con id 1 eliminado con éxito
+2022-07-10 19:36:28 INFO  OdontologoController:86 - Buscando todos los turnos eliminados
+2022-07-10 19:36:28 INFO  OdontologoController:94 - 1 turnos encontrados con éxito
+2022-07-10 19:36:33 INFO  OdontologoController:242 - Restaurando turno con id 1
+2022-07-10 19:36:33 INFO  OdontologoController:253 - Turno con id 1 restaurado con éxito
+2022-07-10 19:36:34 INFO  OdontologoController:195 - Editando turno con id 1
+2022-07-10 19:36:34 INFO  OdontologoController:216 - Turno modificado con éxito
+2022-07-10 19:36:38 INFO  OdontologoController:129 - Buscando turnos entre 2 fechas
+2022-07-10 19:36:38 INFO  OdontologoController:140 - 2 turnos entre 2020-12-01 y 2022-12-26 encontrados con éxito
+2022-07-10 19:36:44 INFO  OdontologoController:129 - Buscando turnos entre 2 fechas
+2022-07-10 19:36:44 INFO  OdontologoController:140 - 1 turnos entre 2022-12-01 y 2022-12-26 encontrados con éxito
+2022-07-11 01:50:41 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:50:41 ERROR OdontologoController:29 - No se encontraron odontólogos activos
+2022-07-11 01:50:47 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-11 01:50:47 INFO  OdontologoController:56 - Odontólogo Prueba Len creado correctamente con id 1
+2022-07-11 01:50:48 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:50:48 INFO  OdontologoController:32 - Devolviendo 1 odontólogos encontrados
+2022-07-11 01:50:48 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:50:48 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:51:05 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-11 01:51:05 INFO  OdontologoController:56 - Odontólogo Matías Sanchez creado correctamente con id 2
+2022-07-11 01:51:06 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:51:06 INFO  OdontologoController:32 - Devolviendo 2 odontólogos encontrados
+2022-07-11 01:51:06 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:51:06 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:51:36 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:51:36 INFO  OdontologoController:32 - Devolviendo 2 odontólogos encontrados
+2022-07-11 01:51:41 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:51:41 INFO  OdontologoController:32 - Devolviendo 2 odontólogos encontrados
+2022-07-11 01:51:44 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:51:44 INFO  OdontologoController:32 - Devolviendo 2 odontólogos encontrados
+2022-07-11 01:51:44 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:51:44 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:51:52 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:51:52 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:55:09 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:55:09 ERROR OdontologoController:29 - No se encontraron odontólogos activos
+2022-07-11 01:55:09 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:55:09 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:55:13 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-11 01:55:13 INFO  OdontologoController:56 - Odontólogo Matías Len creado correctamente con id 1
+2022-07-11 01:55:14 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:55:14 INFO  OdontologoController:32 - Devolviendo 1 odontólogos encontrados
+2022-07-11 01:55:14 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:55:14 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:55:20 INFO  OdontologoController:80 - Editando odontólogo con id 1
+2022-07-11 01:55:20 INFO  OdontologoController:88 - Odontólogo editado con éxito
+2022-07-11 01:55:21 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:55:21 INFO  OdontologoController:32 - Devolviendo 1 odontólogos encontrados
+2022-07-11 01:55:21 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:55:21 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:55:23 INFO  OdontologoController:95 - Eliminando odontólogo con id 1
+2022-07-11 01:55:23 INFO  OdontologoController:100 - Odontólogo con id 1 eliminado con éxito
+2022-07-11 01:55:24 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:55:24 ERROR OdontologoController:29 - No se encontraron odontólogos activos
+2022-07-11 01:55:24 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:55:24 INFO  OdontologoController:45 - Devolviendo 1 odontólogos eliminados encontrados
+2022-07-11 01:57:14 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:57:14 ERROR OdontologoController:29 - No se encontraron odontólogos activos
+2022-07-11 01:57:14 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:57:14 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:57:18 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-11 01:57:18 INFO  OdontologoController:56 - Odontólogo Matías Len creado correctamente con id 1
+2022-07-11 01:57:18 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:57:18 INFO  OdontologoController:32 - Devolviendo 1 odontólogos encontrados
+2022-07-11 01:57:18 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:57:18 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:57:24 INFO  OdontologoController:52 - Creando odontólogo
+2022-07-11 01:57:24 INFO  OdontologoController:56 - Odontólogo adfgadfg Jiménez creado correctamente con id 2
+2022-07-11 01:57:25 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:57:25 INFO  OdontologoController:32 - Devolviendo 2 odontólogos encontrados
+2022-07-11 01:57:25 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:57:25 ERROR OdontologoController:42 - No se encontraron odontólogos eliminados
+2022-07-11 01:57:27 INFO  OdontologoController:95 - Eliminando odontólogo con id 1
+2022-07-11 01:57:27 INFO  OdontologoController:100 - Odontólogo con id 1 eliminado con éxito
+2022-07-11 01:57:28 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:57:28 INFO  OdontologoController:32 - Devolviendo 1 odontólogos encontrados
+2022-07-11 01:57:28 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:57:28 INFO  OdontologoController:45 - Devolviendo 1 odontólogos eliminados encontrados
+2022-07-11 01:57:31 INFO  OdontologoController:95 - Eliminando odontólogo con id 2
+2022-07-11 01:57:31 INFO  OdontologoController:100 - Odontólogo con id 2 eliminado con éxito
+2022-07-11 01:57:32 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:57:32 ERROR OdontologoController:29 - No se encontraron odontólogos activos
+2022-07-11 01:57:32 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:57:32 INFO  OdontologoController:45 - Devolviendo 2 odontólogos eliminados encontrados
+2022-07-11 01:57:37 INFO  OdontologoController:110 - Restaurando odontólogo con id 1
+2022-07-11 01:57:37 INFO  OdontologoController:121 - Odontólogo con id 1 restaurado con éxito
+2022-07-11 01:57:38 INFO  OdontologoController:26 - Buscando todos los odontólogos activos
+2022-07-11 01:57:38 INFO  OdontologoController:32 - Devolviendo 1 odontólogos encontrados
+2022-07-11 01:57:38 INFO  OdontologoController:39 - Buscando todos los odontólogos eliminados
+2022-07-11 01:57:38 INFO  OdontologoController:45 - Devolviendo 1 odontólogos eliminados encontrados

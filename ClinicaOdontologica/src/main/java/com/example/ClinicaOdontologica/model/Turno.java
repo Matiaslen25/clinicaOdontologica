@@ -12,11 +12,11 @@ public class Turno {
     @Column(columnDefinition = "TIMESTAMP")
     private LocalDateTime fechaHora;
     // Un turno solo puede tener un paciente
-    @ManyToOne(cascade = CascadeType.ALL)
+    @ManyToOne
     @JoinColumn(name = "paciente_id")
     private Paciente paciente;
     // Un turno solo puede tener un odontólogo
-    @ManyToOne(cascade = CascadeType.ALL)
+    @ManyToOne
     @JoinColumn(name = "odontologo_id")
     private Odontologo odontologo;
     private Boolean deleted = false;
